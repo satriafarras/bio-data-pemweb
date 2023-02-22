@@ -21,7 +21,7 @@
     <tr>
         <td>Nama</td>
         <td>Satria Farras Athallansyah</td>
-<td rowspan="10" align="center"><img src="Farras.jpeg" width="210" height="313"></td>
+<td rowspan="10" align="center"><img src="farras.jpeg" width="210" height="313"></td>
     <tr>
         <td>Jenis Kelamin</td>
         <td>Laki Laki</td>
